@@ -8,4 +8,4 @@ Käyttö:
 - Tiedostossa pubspec.yaml lisää http-kirjasto depenpencies kohtaan:
   http: ^1.6.0
 
-  - Kopio main.dart koodi ja lisää se projektin main.dart tiedostoon
+- Kopio main.dart koodi ja lisää se projektin main.dart tiedostoon
